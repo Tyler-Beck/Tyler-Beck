@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center">I'm a Computer Science student at The College of New Jersey, graduating in May 2026.<br><br>- I am searching for entry level roles in Software Engineering, Systems Engineering, and other technical roles upon graduation.<br>- I enjoy a variety of niches withing Computer Science such as Systems, Web Applications, and more.<br>- I am also an amateur Mixed Martial Arts fighter in my spare time.<br><br>Let's Connect!</p>
+<p align="center">I'm a Computer Science student at The College of New Jersey, graduating in May 2026.<br><br>- I am searching for entry level roles in Software Engineering, Systems Engineering, and other technical roles upon graduation.<br>- I enjoy a variety of niches within Computer Science such as Systems, Web Applications, and more.<br>- I am also an amateur Mixed Martial Arts fighter in my spare time.<br><br>Let's Connect!</p>
 
 ###
 
